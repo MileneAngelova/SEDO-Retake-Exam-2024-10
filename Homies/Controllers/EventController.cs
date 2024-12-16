@@ -7,6 +7,8 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using System.Security.Claims;
 
+// Just testing
+
 namespace Homies.Controllers
 {
     [Authorize]
